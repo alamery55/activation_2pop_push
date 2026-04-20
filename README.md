@@ -11,8 +11,8 @@
  It contains a button labeled "Show Details"
  When the user presses the button, the app navigates to the next screen using Navigator (push)
  ## Screanshot
- ![home_page](SCREENSHOTS/1776708925470.jpg)
- ### Details Page
+ ![home_page](https://github.com/alamery55/activation_2pop_push/blob/main/SCREENSHOTS/1776708925464.jpg)
+ ## Details Page
  This screen demonstrates the use of pop navigation
  It contains a button labeled "Back to Home"
  When pressed, the app returns to the previous screen using Navigator (pop)
