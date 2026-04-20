@@ -10,12 +10,12 @@
  This is the main screen of the application
  It contains a button labeled "Show Details"
  When the user presses the button, the app navigates to the next screen using Navigator (push)
- ##Screanshot
+ ## Screanshot
  ![home_page](SCREENSHOTS/1776708925470.jpeg)
-    ###Details Page
-    This screen demonstrates the use of pop navigation
-    It contains a button labeled "Back to Home"
-    When pressed, the app returns to the previous screen using Navigator (pop)
+ ### Details Page
+ This screen demonstrates the use of pop navigation
+ It contains a button labeled "Back to Home"
+ When pressed, the app returns to the previous screen using Navigator (pop)
     ![photo](SCREENSHOTS/1776708925470.jpg)
     Push → Navigate to a new screen
     Pop → Return to the previous screen
