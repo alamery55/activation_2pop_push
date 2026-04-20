@@ -1,4 +1,9 @@
 ## activation_2pop_push
+
+
+
+
+
   #Flutter Navigation (Push & Pop)
     Overview
     This project demonstrates basic navigation in Flutter using Navigator (push & pop)
@@ -7,7 +12,7 @@
     It contains a button labeled "Show Details"
     When the user presses the button, the app navigates to the next screen using Navigator (push)
     ##Screanshot
-  ![home_page](screenshots/1776708925470.jpeg)
+    ![home_page](SCREENSHOTS/1776708925470.jpeg)
     ###Details Page
     This screen demonstrates the use of pop navigation
     It contains a button labeled "Back to Home"
