@@ -3,11 +3,10 @@
 
 
 
-
-  #Flutter Navigation (Push & Pop)
-    Overview
+# Flutter Navigation (Push & Pop)
+   Overview
     This project demonstrates basic navigation in Flutter using Navigator (push & pop)
-    ##Home Page
+    ## Home Page
     This is the main screen of the application
     It contains a button labeled "Show Details"
     When the user presses the button, the app navigates to the next screen using Navigator (push)
